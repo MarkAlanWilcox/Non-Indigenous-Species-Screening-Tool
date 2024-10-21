@@ -1,0 +1,115 @@
+Species,Taxa,Assessor,Ecoregion.Assessed,Presence.Absense,Category,Question,Question.No,O1,O2,O3,O4,O5,Modifier.Score
+,,Assess.A,,,Ecological,1 sps Pred,1.1,,,,NA,NA,NA
+,,Assess.A,,,Ecological,1 sps Comp,1.2,,,,NA,NA,NA
+,,Assess.A,,,Ecological,Disease,1.3,,,,NA,NA,NA
+,,Assess.A,,,Ecological,Climate,1.4,NA,NA,NA,NA,NA,
+,,Assess.A,,,Ecological,>1 sps Comp,2.1,,,,NA,NA,NA
+,,Assess.A,,,Ecological,>1 sps Pred,2.2,,,,NA,NA,NA
+,,Assess.A,,,Ecological,Trophic Casc,2.3,,,,NA,NA,NA
+,,Assess.A,,,Ecological,Climate,2.4,NA,NA,NA,NA,NA,
+,,Assess.A,,,Ecological,Nutrients,3.1,,,,NA,NA,NA
+,,Assess.A,,,Ecological,Abiotic,3.2,,,,NA,NA,NA
+,,Assess.A,,,Ecological,Biogenic,3.3,,,,NA,NA,NA
+,,Assess.A,,,Ecological,Climate,3.4,NA,NA,NA,NA,NA,
+,,Assess.A,,,Ecological,Cons sps,4.1,,,,NA,NA,NA
+,,Assess.A,,,Ecological,Cons areas,4.2,,,,NA,NA,NA
+,,Assess.A,,,Ecological,Climate,4.3,NA,NA,NA,NA,NA,
+,,Assess.A,,,Invasion,Vectors,1.1,NA,NA,NA,NA,NA,
+,,Assess.A,,,Invasion,Entrainment,1.2,,,,,,NA
+,,Assess.A,,,Invasion,Climate,1.3,NA,NA,NA,NA,NA,
+,,Assess.A,,,Invasion,D range,2.1,,,,,,NA
+,,Assess.A,,,Invasion,Climate,2.2,NA,NA,NA,NA,NA,
+,,Assess.A,,,Invasion,Environ %,3.1,,,,,,NA
+,,Assess.A,,,Invasion,Habitat %,3.2,,,,,,NA
+,,Assess.A,,,Invasion,Climate,3.3,NA,NA,NA,NA,NA,
+,,Assess.A,,,Invasion,Offspring,4.1,,,,,,NA
+,,Assess.A,,,Invasion,D rate,4.2,NA,NA,NA,NA,NA,
+,,Assess.A,,,Invasion,Climate,4.3,NA,NA,NA,NA,NA,
+,,Assess.A,,,Socio-Econ,$ Industry,1.1,,,,NA,NA,NA
+,,Assess.A,,,Socio-Econ,$ Individs,1.2,,,,NA,NA,NA
+,,Assess.A,,,Socio-Econ,$ Govt,1.3,,,,NA,NA,NA
+,,Assess.A,,,Socio-Econ,Climate,1.4,NA,NA,NA,NA,NA,
+,,Assess.A,,,Socio-Econ,Health,2.1,,,,NA,NA,NA
+,,Assess.A,,,Socio-Econ,Climate,2.2,NA,NA,NA,NA,NA,
+,,Assess.A,,,Socio-Econ,Food/Water,3.1,,,,NA,NA,NA
+,,Assess.A,,,Socio-Econ,Med/Orn,3.2,,,,NA,NA,NA
+,,Assess.A,,,Socio-Econ,Climate,3.3,NA,NA,NA,NA,NA,
+,,Assess.A,,,Socio-Econ,Cultural Sps,4.1,,,,NA,NA,NA
+,,Assess.A,,,Socio-Econ,Cultural Area,4.2,,,,NA,NA,NA
+,,Assess.A,,,Socio-Econ,Climate,4.3,NA,NA,NA,NA,NA,
+,,Assess.B,,,Ecological,1 sps Pred,1.1,,,,NA,NA,NA
+,,Assess.B,,,Ecological,1 sps Comp,1.2,,,,NA,NA,NA
+,,Assess.B,,,Ecological,Disease,1.3,,,,NA,NA,NA
+,,Assess.B,,,Ecological,Climate,1.4,NA,NA,NA,NA,NA,
+,,Assess.B,,,Ecological,>1 sps Comp,2.1,,,,NA,NA,NA
+,,Assess.B,,,Ecological,>1 sps Pred,2.2,,,,NA,NA,NA
+,,Assess.B,,,Ecological,Trophic Casc,2.3,,,,NA,NA,NA
+,,Assess.B,,,Ecological,Climate,2.4,NA,NA,NA,NA,NA,
+,,Assess.B,,,Ecological,Nutrients,3.1,,,,NA,NA,NA
+,,Assess.B,,,Ecological,Abiotic,3.2,,,,NA,NA,NA
+,,Assess.B,,,Ecological,Biogenic,3.3,,,,NA,NA,NA
+,,Assess.B,,,Ecological,Climate,3.4,NA,NA,NA,NA,NA,
+,,Assess.B,,,Ecological,Cons sps,4.1,,,,NA,NA,NA
+,,Assess.B,,,Ecological,Cons areas,4.2,,,,NA,NA,NA
+,,Assess.B,,,Ecological,Climate,4.3,NA,NA,NA,NA,NA,
+,,Assess.B,,,Invasion,Vectors,1.1,NA,NA,NA,NA,NA,
+,,Assess.B,,,Invasion,Entrainment,1.2,,,,,,NA
+,,Assess.B,,,Invasion,Climate,1.3,NA,NA,NA,NA,NA,
+,,Assess.B,,,Invasion,D range,2.1,,,,,,NA
+,,Assess.B,,,Invasion,Climate,2.2,NA,NA,NA,NA,NA,
+,,Assess.B,,,Invasion,Environ %,3.1,,,,,,NA
+,,Assess.B,,,Invasion,Habitat %,3.2,,,,,,NA
+,,Assess.B,,,Invasion,Climate,3.3,NA,NA,NA,NA,NA,
+,,Assess.B,,,Invasion,Offspring,4.1,,,,,,NA
+,,Assess.B,,,Invasion,D rate,4.2,NA,NA,NA,NA,NA,
+,,Assess.B,,,Invasion,Climate,4.3,NA,NA,NA,NA,NA,
+,,Assess.B,,,Socio-Econ,$ Industry,1.1,,,,NA,NA,NA
+,,Assess.B,,,Socio-Econ,$ Individs,1.2,,,,NA,NA,NA
+,,Assess.B,,,Socio-Econ,$ Govt,1.3,,,,NA,NA,NA
+,,Assess.B,,,Socio-Econ,Climate,1.4,NA,NA,NA,NA,NA,
+,,Assess.B,,,Socio-Econ,Health,2.1,,,,NA,NA,NA
+,,Assess.B,,,Socio-Econ,Climate,2.2,NA,NA,NA,NA,NA,
+,,Assess.B,,,Socio-Econ,Food/Water,3.1,,,,NA,NA,NA
+,,Assess.B,,,Socio-Econ,Med/Orn,3.2,,,,NA,NA,NA
+,,Assess.B,,,Socio-Econ,Climate,3.3,NA,NA,NA,NA,NA,
+,,Assess.B,,,Socio-Econ,Cultural Sps,4.1,,,,NA,NA,NA
+,,Assess.B,,,Socio-Econ,Cultural Area,4.2,,,,NA,NA,NA
+,,Assess.B,,,Socio-Econ,Climate,4.3,NA,NA,NA,NA,NA,
+,,Assess.C,,,Ecological,1 sps Pred,1.1,,,,NA,NA,NA
+,,Assess.C,,,Ecological,1 sps Comp,1.2,,,,NA,NA,NA
+,,Assess.C,,,Ecological,Disease,1.3,,,,NA,NA,NA
+,,Assess.C,,,Ecological,Climate,1.4,NA,NA,NA,NA,NA,
+,,Assess.C,,,Ecological,>1 sps Comp,2.1,,,,NA,NA,NA
+,,Assess.C,,,Ecological,>1 sps Pred,2.2,,,,NA,NA,NA
+,,Assess.C,,,Ecological,Trophic Casc,2.3,,,,NA,NA,NA
+,,Assess.C,,,Ecological,Climate,2.4,NA,NA,NA,NA,NA,
+,,Assess.C,,,Ecological,Nutrients,3.1,,,,NA,NA,NA
+,,Assess.C,,,Ecological,Abiotic,3.2,,,,NA,NA,NA
+,,Assess.C,,,Ecological,Biogenic,3.3,,,,NA,NA,NA
+,,Assess.C,,,Ecological,Climate,3.4,NA,NA,NA,NA,NA,
+,,Assess.C,,,Ecological,Cons sps,4.1,,,,NA,NA,NA
+,,Assess.C,,,Ecological,Cons areas,4.2,,,,NA,NA,NA
+,,Assess.C,,,Ecological,Climate,4.3,NA,NA,NA,NA,NA,
+,,Assess.C,,,Invasion,Vectors,1.1,NA,NA,NA,NA,NA,
+,,Assess.C,,,Invasion,Entrainment,1.2,,,,,,NA
+,,Assess.C,,,Invasion,Climate,1.3,NA,NA,NA,NA,NA,
+,,Assess.C,,,Invasion,D range,2.1,,,,,,NA
+,,Assess.C,,,Invasion,Climate,2.2,NA,NA,NA,NA,NA,
+,,Assess.C,,,Invasion,Environ %,3.1,,,,,,NA
+,,Assess.C,,,Invasion,Habitat %,3.2,,,,,,NA
+,,Assess.C,,,Invasion,Climate,3.3,NA,NA,NA,NA,NA,
+,,Assess.C,,,Invasion,Offspring,4.1,,,,,,NA
+,,Assess.C,,,Invasion,D rate,4.2,NA,NA,NA,NA,NA,
+,,Assess.C,,,Invasion,Climate,4.3,NA,NA,NA,NA,NA,
+,,Assess.C,,,Socio-Econ,$ Industry,1.1,,,,NA,NA,NA
+,,Assess.C,,,Socio-Econ,$ Individs,1.2,,,,NA,NA,NA
+,,Assess.C,,,Socio-Econ,$ Govt,1.3,,,,NA,NA,NA
+,,Assess.C,,,Socio-Econ,Climate,1.4,NA,NA,NA,NA,NA,
+,,Assess.C,,,Socio-Econ,Health,2.1,,,,NA,NA,NA
+,,Assess.C,,,Socio-Econ,Climate,2.2,NA,NA,NA,NA,NA,
+,,Assess.C,,,Socio-Econ,Food/Water,3.1,,,,NA,NA,NA
+,,Assess.C,,,Socio-Econ,Med/Orn,3.2,,,,NA,NA,NA
+,,Assess.C,,,Socio-Econ,Climate,3.3,NA,NA,NA,NA,NA,
+,,Assess.C,,,Socio-Econ,Cultural Sps,4.1,,,,NA,NA,NA
+,,Assess.C,,,Socio-Econ,Cultural Area,4.2,,,,NA,NA,NA
+,,Assess.C,,,Socio-Econ,Climate,4.3,NA,NA,NA,NA,NA,
