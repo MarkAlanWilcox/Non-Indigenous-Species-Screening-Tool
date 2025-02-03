@@ -311,6 +311,10 @@ Total_assessment <- rbind(Inv_Output, Soc_Output, Ecol_Output)
 
 Final_df <- Total_assessment
 
+#Write CSV file that can be reviewed without reworking the Monte Carlo
+
+write.csv(Final_df, "Module_scores.csv")
+
 #Square the errors to facilitate the sum of squares
 
 Final_df$Module_error <- (Final_df$Module_error)^2
@@ -382,6 +386,9 @@ Totalscore.df$Total_ClimatexScore <- (Totalscore.df$Ecol_Soc_Climate_Score*Total
 Totalscore.df$Species <- as.factor(Totalscore.df$Species)
 Totalscore.df$Taxa <- as.factor(Totalscore.df$Taxa)
 Totalscore.df$Presence.Absense <- as.factor(Totalscore.df$Presence.Absense)
+
+#Write CSV of total scores for ease of reviewing data without rerunning Monte Carlo
+write.csv(Totalscore.df, "Total_scores.csv")
 
 ####Ploting-----
 
@@ -607,7 +614,7 @@ IAImaster <- merge(IAIAssess.B, IAIAssess.A, by = "id", all.x=TRUE)
 IAImaster1 <- merge(IAImaster, IAIAssess.C, by = "id", all.x=TRUE)
 
 #Remove modifier questions
-IAImaster1 <- IAImaster1[!(IAImaster1$Question.No==1.1),]
+IAImaster1 <- IAImaster1[!(IAImaster1$Question.No==1.2),]
 IAImaster1 <- IAImaster1[!(IAImaster1$Question.No==1.3),]
 IAImaster1 <- IAImaster1[!(IAImaster1$Question.No==2.2),]
 IAImaster1 <- IAImaster1[!(IAImaster1$Question.No==3.3),]
