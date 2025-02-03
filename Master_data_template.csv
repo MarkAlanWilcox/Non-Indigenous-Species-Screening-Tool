@@ -14,8 +14,8 @@ Species,Taxa,Assessor,Ecoregion.Assessed,Presence.Absense,Category,Question,Ques
 ,,Assess.A,,,Ecological,Cons sps,4.1,,,,NA,NA,NA
 ,,Assess.A,,,Ecological,Cons areas,4.2,,,,NA,NA,NA
 ,,Assess.A,,,Ecological,Climate,4.3,NA,NA,NA,NA,NA,
-,,Assess.A,,,Invasion,Vectors,1.1,NA,NA,NA,NA,NA,
-,,Assess.A,,,Invasion,Entrainment,1.2,,,,,,NA
+,,Assess.A,,,Invasion,Entrainment,1.1,,,,,,NA
+,,Assess.A,,,Invasion,Vectors,1.2,NA,NA,NA,NA,NA,
 ,,Assess.A,,,Invasion,Climate,1.3,NA,NA,NA,NA,NA,
 ,,Assess.A,,,Invasion,D range,2.1,,,,,,NA
 ,,Assess.A,,,Invasion,Climate,2.2,NA,NA,NA,NA,NA,
@@ -52,8 +52,8 @@ Species,Taxa,Assessor,Ecoregion.Assessed,Presence.Absense,Category,Question,Ques
 ,,Assess.B,,,Ecological,Cons sps,4.1,,,,NA,NA,NA
 ,,Assess.B,,,Ecological,Cons areas,4.2,,,,NA,NA,NA
 ,,Assess.B,,,Ecological,Climate,4.3,NA,NA,NA,NA,NA,
-,,Assess.B,,,Invasion,Vectors,1.1,NA,NA,NA,NA,NA,
-,,Assess.B,,,Invasion,Entrainment,1.2,,,,,,NA
+,,Assess.B,,,Invasion,Entrainment,1.1,,,,,,NA
+,,Assess.B,,,Invasion,Vectors,1.2,NA,NA,NA,NA,NA,
 ,,Assess.B,,,Invasion,Climate,1.3,NA,NA,NA,NA,NA,
 ,,Assess.B,,,Invasion,D range,2.1,,,,,,NA
 ,,Assess.B,,,Invasion,Climate,2.2,NA,NA,NA,NA,NA,
@@ -90,8 +90,8 @@ Species,Taxa,Assessor,Ecoregion.Assessed,Presence.Absense,Category,Question,Ques
 ,,Assess.C,,,Ecological,Cons sps,4.1,,,,NA,NA,NA
 ,,Assess.C,,,Ecological,Cons areas,4.2,,,,NA,NA,NA
 ,,Assess.C,,,Ecological,Climate,4.3,NA,NA,NA,NA,NA,
-,,Assess.C,,,Invasion,Vectors,1.1,NA,NA,NA,NA,NA,
-,,Assess.C,,,Invasion,Entrainment,1.2,,,,,,NA
+,,Assess.C,,,Invasion,Entrainment,1.1,,,,,,NA
+,,Assess.C,,,Invasion,Vectors,1.2,NA,NA,NA,NA,NA,
 ,,Assess.C,,,Invasion,Climate,1.3,NA,NA,NA,NA,NA,
 ,,Assess.C,,,Invasion,D range,2.1,,,,,,NA
 ,,Assess.C,,,Invasion,Climate,2.2,NA,NA,NA,NA,NA,
